@@ -57,3 +57,7 @@ lo mismo hacemos con las demás columnas y podremos ver algo como:
 <p align="justify">
 	Si nos fijamos también tendremos la opción de filtrar un <i>dato</i> o un <i>conjunto de datos</i> de esa lista =)
 </p>
+
+## Contacto
+
+Twitter: @ginppian
