@@ -14,7 +14,7 @@ Excel Tips
 </p>
 
 <p align="center">
-  <img src="https://github.com/ginppian/Excel-Tips/blob/master/imgs/img1.png" width="273" height="185" />
+  <img src="https://github.com/ginppian/Excel-Tips-Ordena_Rango/blob/master/imgs/img1.png" width="273" height="185" />
 </p>
 
 <p align="justify">
@@ -22,15 +22,15 @@ Excel Tips
 </p>
 
 <p align="center">
-  <img src="https://github.com/ginppian/Excel-Tips/blob/master/imgs/img2.png" width="1140" height="450" />
+  <img src="https://github.com/ginppian/Excel-Tips-Ordena_Rango/blob/master/imgs/img2.png" width="1140" height="450" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/ginppian/Excel-Tips/blob/master/imgs/img3.png" width="1140" height="450" />
+  <img src="https://github.com/ginppian/Excel-Tips-Ordena_Rango/blob/master/imgs/img3.png" width="1140" height="450" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/ginppian/Excel-Tips/blob/master/imgs/img4.png" width="1140" height="450" />
+  <img src="https://github.com/ginppian/Excel-Tips-Ordena_Rango/blob/master/imgs/img4.png" width="1140" height="450" />
 </p>
 
 Ahora nos da la opción de ordenar de:
@@ -39,19 +39,19 @@ Ahora nos da la opción de ordenar de:
 * Mayor a menor
 
 <p align="center">
-  <img src="https://github.com/ginppian/Excel-Tips/blob/master/imgs/img5.png" width="1140" height="450" />
+  <img src="https://github.com/ginppian/Excel-Tips-Ordena_Rango/blob/master/imgs/img5.png" width="1140" height="450" />
 </p>
 
 seleccionamos alguna, y nos despliega la lista ¡ya! ordenada:
 
 <p align="center">
-  <img src="https://github.com/ginppian/Excel-Tips/blob/master/imgs/img6.png" width="104" height="187" />
+  <img src="https://github.com/ginppian/Excel-Tips-Ordena_Rango/blob/master/imgs/img6.png" width="104" height="187" />
 </p>
 
 lo mismo hacemos con las demás columnas y podremos ver algo como:
 
 <p align="center">
-  <img src="https://github.com/ginppian/Excel-Tips/blob/master/imgs/img7.png" width="1140" height="450" />
+  <img src="https://github.com/ginppian/Excel-Tips-Ordena_Rango/blob/master/imgs/img7.png" width="1140" height="450" />
 </p>
 
 <p align="justify">
