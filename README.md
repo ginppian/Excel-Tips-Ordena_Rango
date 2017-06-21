@@ -7,7 +7,7 @@ Excel Tips
 	A continuación vamos a dar una conjunto de <b>tips</b> como ordenar un rango, etc.
 </p>
 
-### Tip 0 - Ordenar un rango
+### Tip - Ordenar un rango
 
 <p align="justify">
 	Muchas veces queremos seleccionar toda una columna y <b>ordenar</b> una la <i>lista</i>. Esta lista puede ser numérica, alfabética o por fecha:
